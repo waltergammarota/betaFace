@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FacesRecognizeRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<api_key>{{api_key}}</api_key>
+	<api_secret>{{api_secret}}</api_secret>
+	<faces_uids>
+   		<guid xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+     		{{face_uid}}
+     	</guid>
+	</faces_uids>
+	<targets>
+   		<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+   			{{namespace}}
+     	</string>
+	</targets>
+	<group_results>false</group_results>
+
+</FacesRecognizeRequest>

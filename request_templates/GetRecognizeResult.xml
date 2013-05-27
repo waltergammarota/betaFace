@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RecognizeResultRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                     	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<api_key>{{api_key}}</api_key>
+	<api_secret>{{api_secret}}</api_secret>
+	<recognize_uid>{{recognize_job_id}}</recognize_uid>
+
+</RecognizeResultRequest>

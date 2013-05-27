@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ImageRequestBinary xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<api_key>{{api_key}}</api_key>
+	<api_secret>{{api_secret}}</api_secret>
+	<detection_flags>0</detection_flags>
+	<imagefile_data>{{base64_data}}</imagefile_data>
+	<original_filename>{{original_filename}}</original_filename>
+
+</ImageRequestBinary>

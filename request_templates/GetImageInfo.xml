@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ImageInfoRequestUid xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<api_key>{{api_key}}</api_key>
+	<api_secret>{{api_secret}}</api_secret>
+	<img_uid>{{image_uid}}</img_uid>
+
+</ImageInfoRequestUid>
