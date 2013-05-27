@@ -1,4 +1,4 @@
-phpBetaFace
+betaFace
 ===========
 
 betaface.com API client in PHP
